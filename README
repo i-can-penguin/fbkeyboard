@@ -1,3 +1,7 @@
+#define TOUCHCOLOR 0x67EA94
+#define BUTTONCOLOR 0x000000
+#define BACKLITCOLOR 0x67EA94  // Meshtastic Green
+
 fbkeyboard
 
 This is a framebuffer softkeyboard for use on devices with touchscreen input like smartphones.
