@@ -2,6 +2,18 @@
 #define BUTTONCOLOR 0x000000
 #define BACKLITCOLOR 0x67EA94  // Meshtastic Green
 
+
+Hex
+#67EA94
+RGB
+103, 234, 148
+HSL
+141, 76, 66
+OKLCH
+0.84, 0.17, 152
+
+https://htmlcolorcodes.com/
+
 fbkeyboard
 
 This is a framebuffer softkeyboard for use on devices with touchscreen input like smartphones.
